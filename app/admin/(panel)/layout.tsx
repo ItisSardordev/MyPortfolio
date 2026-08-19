@@ -7,7 +7,7 @@ import { useAuth } from '@/lib/auth-context';
 import { Loader2, LayoutDashboard, FolderKanban, Link2, FileText, LogOut, ExternalLink } from 'lucide-react';
 
 const navItems = [
-  { href: '/admin', label: 'Dashboard', icon: LayoutDashboard, exact: true },
+  { href: 'https://my-portfolio-git-main-sardors-projects-643d5d36.vercel.app//admin', label: 'Dashboard', icon: LayoutDashboard, exact: true },
   { href: '/admin/projects', label: 'Projects', icon: FolderKanban },
   { href: '/admin/socials', label: 'Socials', icon: Link2 },
   { href: '/admin/site-content', label: 'Site Content', icon: FileText },
