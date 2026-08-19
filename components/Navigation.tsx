@@ -61,7 +61,7 @@ export function Navigation() {
             onClick={(e) => handleClick(e, '#home')}
             className="font-serif text-xl tracking-tight text-paper"
           >
-            Adrian<span className="text-paper-muted">.</span>
+            Sardor<span className="text-paper-muted">.</span>
           </a>
 
           <ul className="hidden items-center gap-10 md:flex">
