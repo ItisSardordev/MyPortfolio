@@ -20,11 +20,6 @@ export const metadata: Metadata = {
   title: 'Sardor — Designer · Programmer · Founder',
   description:
     'Independent designer, programmer, and founder crafting digital products at the intersection of aesthetics and engineering.',
-   icons: {
-    icon: './7dc78259-0ac0-454a-9672-d81f93a53331.png',
-    shortcut: './7dc78259-0ac0-454a-9672-d81f93a53331.png',
-    apple: './7dc78259-0ac0-454a-9672-d81f93a53331.png',
-  },
   openGraph: {
     title: 'Sardor — Designer · Programmer · Founder',
     description:
