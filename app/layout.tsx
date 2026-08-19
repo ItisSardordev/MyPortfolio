@@ -21,9 +21,9 @@ export const metadata: Metadata = {
   description:
     'Independent designer, programmer, and founder crafting digital products at the intersection of aesthetics and engineering.',
    icons: {
-    icon: '/logo.png',
-    shortcut: '/logo.png',
-    apple: '/logo.png',
+    icon: './/lib/7dc78259-0ac0-454a-9672-d81f93a53331.png',
+    shortcut: './/lib/7dc78259-0ac0-454a-9672-d81f93a53331.png',
+    apple: './/lib/7dc78259-0ac0-454a-9672-d81f93a53331.png',
   },
   openGraph: {
     title: 'Sardor — Designer · Programmer · Founder',
