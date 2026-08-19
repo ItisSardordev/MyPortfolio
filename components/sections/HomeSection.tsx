@@ -70,7 +70,7 @@ export function HomeSection() {
           className="mt-12 flex flex-col gap-8 md:mt-16 md:flex-row md:items-end md:justify-between"
         >
           <p className="max-w-md text-pretty text-base leading-relaxed text-paper-muted md:text-lg">
-            I&apos;m Adrian — an independent designer, programmer, and founder
+            I&apos;m Sardor — an independent designer, programmer, and founder
             building digital products at the intersection of aesthetics and
             engineering. Currently shaping a studio focused on considered
             software.
