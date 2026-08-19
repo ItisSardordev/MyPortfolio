@@ -17,11 +17,11 @@ const mono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Adrian Cole — Designer · Programmer · Founder',
+  title: 'Sardor — Designer · Programmer · Founder',
   description:
     'Independent designer, programmer, and founder crafting digital products at the intersection of aesthetics and engineering.',
   openGraph: {
-    title: 'Adrian Cole — Designer · Programmer · Founder',
+    title: 'Sardor — Designer · Programmer · Founder',
     description:
       'Independent designer, programmer, and founder crafting digital products at the intersection of aesthetics and engineering.',
     type: 'website',
