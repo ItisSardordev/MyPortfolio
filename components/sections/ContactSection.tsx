@@ -58,10 +58,10 @@ export function ContactSection() {
             and the constraints are honest, I&apos;d like to hear about it.
           </p>
           <a
-            href="mailto:hello@adriancole.studio"
+            href="mailto:sardor.cm.1287@gmail.com"
             className="group mt-10 inline-flex items-center gap-3 font-mono text-sm uppercase tracking-[0.18em] text-paper"
           >
-            hello@adriancole.studio
+            hello@Sardor_design&code.studio
             <ArrowUpRight className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
           </a>
         </div>
@@ -100,10 +100,10 @@ export function ContactSection() {
         className="mt-32 flex flex-col items-start justify-between gap-6 border-t border-hairline pt-8 md:mt-48 md:flex-row md:items-center"
       >
         <p className="font-mono text-xs uppercase tracking-[0.2em] text-paper-dim">
-          © 2026 Adrian Cole — All rights reserved
+          © 2026 Sardor — All rights reserved
         </p>
         <p className="font-mono text-xs uppercase tracking-[0.2em] text-paper-dim">
-          Designed & built in Lisbon
+          Designed & built in Tokyo
         </p>
       </motion.footer>
     </section>
