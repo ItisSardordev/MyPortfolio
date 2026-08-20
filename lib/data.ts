@@ -23,7 +23,7 @@ export const projects: Project[] = [
     image:
       'https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1600',
     technologies: ['React', 'TypeScript', 'Style Dictionary', 'Figma'],
-    github: 'https://github.com',
+    github: 'https://github.com/ItisSardordev',
     demo: 'https://example.com',
   },
   {
@@ -37,7 +37,7 @@ export const projects: Project[] = [
     image:
       'https://images.pexels.com/photos/1089440/pexels-photo-1089440.jpeg?auto=compress&cs=tinysrgb&w=1600',
     technologies: ['Rust', 'Node.js', 'GraphQL', 'Docker'],
-    github: 'https://github.com',
+    github: 'https://github.com/ItisSardordev',
     demo: 'https://example.com',
   },
   {
@@ -51,7 +51,7 @@ export const projects: Project[] = [
     image:
       'https://images.pexels.com/photos/9978722/pexels-photo-9978722.jpeg?auto=compress&cs=tinysrgb&w=1600',
     technologies: ['Next.js', 'Stripe', 'Sanity', 'GSAP'],
-    github: 'https://github.com',
+    github: 'https://github.com/ItisSardordev',
     demo: 'https://example.com',
   },
   {
@@ -65,7 +65,7 @@ export const projects: Project[] = [
     image:
       'https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?auto=compress&cs=tinysrgb&w=1600',
     technologies: ['React', 'Supabase', 'TipTap', 'Vercel'],
-    github: 'https://github.com',
+    github: 'https://github.com/ItisSardordev',
     demo: 'https://example.com',
   },
   {
@@ -79,15 +79,15 @@ export const projects: Project[] = [
     image:
       'https://images.pexels.com/photos/325183/pexels-photo-325183.jpeg?auto=compress&cs=tinysrgb&w=1600',
     technologies: ['Three.js', 'WebRTC', 'CRDT', 'Canvas'],
-    github: 'https://github.com',
+    github: 'https://github.com/ItisSardordev',
     demo: 'https://example.com',
   },
 ];
 
 export const socials = [
-  { label: 'GitHub', href: 'https://github.com', handle: '@adriancole' },
-  { label: 'Twitter', href: 'https://twitter.com', handle: '@adriancole' },
-  { label: 'LinkedIn', href: 'https://linkedin.com', handle: 'in/adriancole' },
-  { label: 'Dribbble', href: 'https://dribbble.com', handle: 'adriancole' },
-  { label: 'Read.cv', href: 'https://read.cv', handle: '/adriancole' },
+  { label: 'GitHub', href: 'https://github.com/ItisSardordev', handle: '@Sardor' },
+  { label: 'Twitter', href: 'https://x.com/sardor1287', handle: '@Sardor' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/sardorodilov/', handle: 'in/Sardor' },
+  { label: 'Instagram', href: 'https://instagram.com/sardor_akbarovich_1', handle: 'Sardor' },
+  { label: 'Telegram', href: 'https://t.me/sardor_akbarovich_1', handle: '/Sardor Tg' },
 ];
